@@ -15,6 +15,7 @@ Your challenge is to apply a design pattern that provides a flexible and scalabl
 
 ## Class Diagram
 
-<img width="436" height="924" alt="class diagram2" src="https://github.com/user-attachments/assets/04d4bc2b-68a2-4007-a509-4673d59a6317" />
+
+<img width="657" height="892" alt="class diagram_CommandPattern" src="https://github.com/user-attachments/assets/d37894e8-d454-4d5a-8b6f-7f139bf212be" />
 
 
